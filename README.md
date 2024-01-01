@@ -1,4 +1,4 @@
-# LMS
+# Library Management System
 
 This is a simple Library Management System implemented in Java using Swing for the graphical user interface and MySQL for the backend database.
 
